@@ -1,0 +1,1 @@
+Atividade-simulação de um sistema de monitoramento de sensores industriais. O script analisa um objeto de métricas e gera alertas automáticos para valores acima do limite de segurança, utilizando manipulação de objetos em JS.
